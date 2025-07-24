@@ -41,7 +41,7 @@ Como **tutor y administrador**, estaré guiando el proceso, respondiendo dudas y
 
 ## ¿Tienes dudas?
 
-¡No te preocupes! Este espacio es para aprender. Si tienes preguntas sobre cómo usar GitHub, cómo realizar un Issue correctamente, o cómo utilizar Projects y Pull Requests, publica tus dudas en los Issues o contáctame directamente. Estoy aquí para ayudarte.
+¡No te preocupes! Este espacio es para aprender. Si tienes preguntas sobre cómo usar GitHub, cómo realizar un Issue correctamente, o cómo utilizar Projects y Pull Requests, publica tus dudas en "Chat general" o contáctame directamente. Estoy aquí para ayudarte.
 
 ---
 
